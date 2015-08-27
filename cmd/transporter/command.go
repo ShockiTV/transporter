@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/compose/transporter/pkg/adaptor"
+	"github.com/ShockiTV/transporter/pkg/adaptor"
 	"github.com/mitchellh/cli"
 )
 
