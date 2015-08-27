@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/compose/transporter/pkg/pipe"
+	"github.com/ShockiTV/transporter/pkg/pipe"
 )
 
 // ErrAdaptor gives the details of the failed adaptor
