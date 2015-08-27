@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/compose/transporter/pkg/message"
-	"github.com/compose/transporter/pkg/pipe"
+	"github.com/ShockiTV/transporter/pkg/message"
+	"github.com/ShockiTV/transporter/pkg/pipe"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )
