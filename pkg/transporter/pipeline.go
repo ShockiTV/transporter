@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/compose/transporter/pkg/adaptor"
-	"github.com/compose/transporter/pkg/events"
+	"github.com/ShockiTV/transporter/pkg/adaptor"
+	"github.com/ShockiTV/transporter/pkg/events"
 )
 
 // VERSION the library
