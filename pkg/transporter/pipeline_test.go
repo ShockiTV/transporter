@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/compose/transporter/pkg/adaptor"
-	"github.com/compose/transporter/pkg/pipe"
+	"github.com/ShockiTV/transporter/pkg/adaptor"
+	"github.com/ShockiTV/transporter/pkg/pipe"
 )
 
 var (
